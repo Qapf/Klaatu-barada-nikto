@@ -1,1 +1,2 @@
 api.townsq.io
+api-gateway.us-west-2.elasticbeanstalk.com
