@@ -1,2 +1,4 @@
 api.townsq.io
 api-gateway.us-west-2.elasticbeanstalk.com
+prod-corazon.us-east-1.elasticbeanstalk.com
+prod-sus-brownie.s3.amazonaws.com
